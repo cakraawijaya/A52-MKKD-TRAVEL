@@ -12,8 +12,7 @@ This website was created as one of the efforts to submit project assignments in 
 ## Project Requirements
 | Part | Description |
 | --- | --- |
-| Code | HTML, CSS, & JS |
-| Tools | Visual Studio Code, XAMPP (PHP Version 5+) |
+| Tools | • Visual Studio Code<br>• Xampp |
 
 <br><br>
 
