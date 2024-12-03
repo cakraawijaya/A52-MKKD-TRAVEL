@@ -81,7 +81,7 @@ Website ini dibuat sebagai salah satu bentuk upaya penyerahan tugas proyek dalam
 ## A52-TIM PROGATE
 | NOMOR | NAMA LENGKAP | PENUGASAN |
 | --- | --- | --- |
-| 1. | Drh. Eni Purwaningsih | Menangani bagian tubuh situs web |
+| 1. | drh. Eni Purwaningsih | Menangani bagian tubuh situs web |
 | 2. | Andi Nurafiah Pallawarukka | Menangani bagian utama situs web |
 | 3. | Muhamad Guru Adiluhung | Menangani bagian kaki (bawah) situs web |
 | 4. | Heri Khariono | Menangani bagian kepala (atas) situs web |

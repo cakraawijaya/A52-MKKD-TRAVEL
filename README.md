@@ -81,7 +81,7 @@ This website was created as one of the efforts to submit project assignments in 
 ## A52-PROGATE TEAMS
 | NUMBER | FULL NAME | TASKS |
 | --- | --- | --- |
-| 1. | Drh. Eni Purwaningsih | Handles the body section of a website |
+| 1. | drh. Eni Purwaningsih | Handles the body section of a website |
 | 2. | Andi Nurafiah Pallawarukka | Handles the main section of a website |
 | 3. | Muhamad Guru Adiluhung | Handles the footer section of a website |
 | 4. | Heri Khariono | Handles the header section of a website |
